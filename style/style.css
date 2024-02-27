@@ -1,0 +1,42 @@
+html, body {
+    height: 100%;
+}
+body {
+    background-color: rgb(233, 196, 150);
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-left: 5px;
+}
+p.one_1{
+    padding-left: 130px;
+}
+p.two_2 {
+    padding-left: 115px;
+}
+form input {
+    margin-left: 65px;
+}
+.inp{
+    margin: 5px 0px 5px 87px;
+}
+form{
+    width: 300px;
+    background-color: rgb(130, 160, 95);
+    margin-left: 70px;
+}
+table,td{
+    border: 1px black solid;
+    width: 450px;
+    height: 500px;
+}
+div{
+    margin-top: 50px;
+}
+td{
+    width: auto;
+    height: auto;
+}
